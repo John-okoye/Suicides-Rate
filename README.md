@@ -40,7 +40,8 @@ Suicide Prevention.
 
 
 ### **By Continent**
-![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/02-%20Continent%20and%20Year%20trend.png)
+![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/02-%20Continent%20and%20Year%20trend.png)  
+
 ***Insights***  
 
 * European rate highest overall, but has steadily **decreased by 40% since 1995**  
@@ -50,7 +51,7 @@ Suicide Prevention.
   
   
 ### **By Sex**
-![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/03-%20Sex%20and%20Year%20trend.png)
+![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/03-%20Sex%20and%20Year%20trend.png)  
 
 ***Insights***  
 
@@ -59,7 +60,8 @@ Suicide Prevention.
 * This ratio of 3.5 : 1 (male : female) has remained relatively constant since the mid 90s  
 
 
-![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/04%20-%20Gender%20Disparity%20by%20Continent.png)
+![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/04%20-%20Gender%20Disparity%20by%20Continent.png)  
+
 ***Insights***   
 
 * European men were at the highest between 1985 - 2015 at almost 30 suicides per 100k  
@@ -68,7 +70,8 @@ Suicide Prevention.
 
 
 ### **By Age**
-![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/05-%20Trend%20by%20age%20and%20Year.png)
+![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/05-%20Trend%20by%20age%20and%20Year.png)  
+
 ***Insights***  
 
 * Globally, suicide increases with age  
@@ -77,7 +80,8 @@ Suicide Prevention.
 * Suicide rate in the ‘5-14’ category remains roughly static and small (< 1 per 100k per year)  
 
 
-![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/06-%20Age%20Disparity%20by%20Continent.png)
+![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/06-%20Age%20Disparity%20by%20Continent.png)  
+
 ***Insights***  
 
 * For the Americas, Asia & Europe (which make up most of the dataset), suicide rate increases with age  
@@ -85,7 +89,8 @@ Suicide Prevention.
 
 ### **By Country**
 
-![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/07-%20Global%20suicides%20by%20country.png)
+![](https://github.com/John-okoye/Suicides-Rate/blob/main/Visualizations/07-%20Global%20suicides%20by%20country.png)  
+
 ***Insights***  
 
 * Lithuania’s rate has been highest by a large margin: > 41 suicides per 100k, per year  
